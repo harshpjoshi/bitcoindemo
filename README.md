@@ -1,3 +1,5 @@
-# bitcoin_demo
+# Bitcoin Demo
+
+![Image alt text](assets/bitcoin.png)
 
 
